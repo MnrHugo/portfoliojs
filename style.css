@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Puritan:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+*
+{
+    font-family: 'Puritan';
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    overflow-x: hidden;
+
+    width: 100%;
+}
+
+
+.tableaux {
+
+min-height: 2020px;
+min-width: 1920px;
+max-height: 2020px;
+max-width: 1920px;
+}
+
+.projettxt {
+    margin-left: 40%;
+    position: absolute;
+    margin-top: -80%;
+}
+
+.tableaux img {
+    position: absolute;
+    
+    }
+
+header {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 2.5%;
+    line-height: 300%;
+}
+
+img {
+    width: 15%;
+    position: absolute;
+    margin-top: 18%;
+}
+
+.logo {
+    margin-left: 24%;
+    margin-top: 61%;
+    width: 8%;
+}
+
+.alvolt {
+    margin-left: 35%;
+    margin-top: 61%;
+    width: 25%;
+
+}
+
+.toshop {
+    margin-left: 60%;
+    margin-top: 61%;
+    width: 15%;
+;
+}
+
+.drop {
+    margin-left: 27%;
+    margin-top: 71%;
+    width: 11%;
+
+}
+
+.flowz {
+    margin-left: 78%;
+    margin-top: 61%;
+    width: 8%;
+
+
+}
+
+.kalbasse {
+    margin-left: 200%;
+    margin-top: 69%;
+    width: 12%;
+
+}
+
+.chat {
+    margin-left: -1%;
+    margin-top: 67%;
+    width: 12%;
+
+   
+}
+
+.cock {
+    margin-left: 27%;
+    margin-top: 130%;
+    width: 16%;
+
+    
+}
+
+.fastmont {
+    margin-left: 43%;
+    margin-top: 140%;
+    width: 30%;
+
+
+}
+
+.steve {
+    margin-left: 26%;
+    margin-top: 7%;
+    width: 50%;
+    z-index: 19900;
+    position: fixed;
+
+}
+
+.nvr
+{
+    margin-top: 98.6%;
+}
+
+
